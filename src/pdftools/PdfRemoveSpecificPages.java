@@ -12,7 +12,7 @@ import org.apache.pdfbox.exceptions.COSVisitorException;
  *
  * @author abhi
  */
-public class PdfPagesRemovalUsingNumbers {
+public class PdfRemoveSpecificPages {
 
     /**
      * @param args the command line arguments
